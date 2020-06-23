@@ -1,0 +1,25 @@
+{
+	"explorer.icon.enableNerdfont": true,
+	"explorer.file.showHiddenFiles": true,
+	"explorer.file.column.indent.indentLine": true,
+	"explorer.file.column.git.showIgnored": true,
+	"explorer.icon.selected":"✓",
+	"explorer.width": 38,
+	"explorer.quitOnOpen": true,
+
+	"git.enableGlobalStatus":true,
+	"git.addedSign.text":"+",
+
+	"python.jediEnabled": false,
+	"python.autoComplete.addBrackets":true,
+	"python.autoComplete.showAdvancedMembers":true,
+	"python.autoUpdateLanguageServer":true,
+
+	"html.enable":true,
+	"html.autoClosingTags":true,
+	"html.format.enable":true,
+	"html.validate.scripts":true,
+	"html.validate.styles": true,
+  "html.format.indentInnerHtml": true,
+  "java.errors.incompleteClasspath.severity": "ignore"
+}
